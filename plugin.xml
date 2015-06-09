@@ -31,4 +31,6 @@
     </platform>
     <dependency id="org.apache.cordova.file"/>
     <dependency id="org.apache.cordova.file-transfer"/>
+    <dependency id="com.google.playservices" />
+
 </plugin>
