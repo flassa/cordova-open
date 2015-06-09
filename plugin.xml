@@ -29,6 +29,4 @@
         <source-file src="src/ios/Open.m"/>
         <header-file src="src/ios/Open.h"/>
     </platform>
-    <dependency id="org.apache.cordova.file"/>
-    <dependency id="org.apache.cordova.file-transfer"/>
 </plugin>
